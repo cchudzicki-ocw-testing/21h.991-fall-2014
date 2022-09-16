@@ -1,5 +1,7 @@
 ---
 content_type: page
+description: The following section lists the readings assigned for each session along
+  with a schedule of discussion topics.
 learning_resource_types:
 - Readings
 ocw_type: CourseSection
